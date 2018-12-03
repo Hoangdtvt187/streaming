@@ -1,0 +1,39 @@
+09:56:30	Opening original "C:\Users\hoang\OneDrive\Desktop\video_goc.mp4"
+09:56:30	Using mode FFmpeg
+
+09:56:30	Input format QuickTime / MOV; input codec H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+09:56:30	Pixel format: 1280x720; yuv420p
+09:56:30	"C:\Users\hoang\OneDrive\Desktop\video_goc.mp4" yuv420p -> YV12 QuickTime / MOV
+09:56:30	Files default resolution is set to 1280x720
+09:56:30	Default length is set to 1852
+09:56:30	Opened original yuv420p -> YV12 QuickTime / MOV
+09:56:30	Opening distorted "C:\Users\hoang\OneDrive\Desktop\video_thu.mp4"
+09:56:30	Using mode FFmpeg
+
+09:56:30	Input format QuickTime / MOV; input codec H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+09:56:30	Pixel format: 1280x720; yuv420p
+09:56:30	"C:\Users\hoang\OneDrive\Desktop\video_thu.mp4" yuv420p -> YV12 QuickTime / MOV
+09:56:30	Default length changed to 1558
+09:56:30	Opened distorted yuv420p -> YV12 QuickTime / MOV
+09:56:30	Opening mask ""
+09:56:30	Using mode FFmpeg
+
+09:56:30	Can't open file. File not exists or locked for reading
+09:56:30	Using mode AviFile (*.avi and *.avs)
+
+09:56:30	Failed to open file! File is missed or corrupted or required codecs are not installed.
+09:56:30	Using mode AviSynth (AviSource)
+
+09:56:30	Failed to open file! File is missed or corrupted or required codecs are not installed.
+09:56:30	Using mode AviSynth (OpenDMLSource)
+
+09:56:30	Failed to open file! File is missed or corrupted or required codecs are not installed.
+09:56:30	Using mode AviSynth (AviFileSource)
+
+09:56:30	Failed to open file! File is missed or corrupted or required codecs are not installed.
+09:56:30	Using mode AviSynth (DirectShowSource)
+
+09:56:30	Failed to open file! File is missed or corrupted or required codecs are not installed.
+09:56:30	Failed to open file ""
+09:56:30	Loaded PSNR (256)
+09:56:39	Done!
